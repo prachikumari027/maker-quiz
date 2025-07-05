@@ -1,1 +1,1 @@
-# quiz-maker
+# wizQuiz
